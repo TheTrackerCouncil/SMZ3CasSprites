@@ -1,0 +1,50 @@
+name: .NET Build + Test 
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Checkout PR
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: gh pr checkout ${{ github.event.pull_request.number }}
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 7.0.x
+    - name: Restore dependencies
+      run: dotnet restore Documenter
+    - name: Build
+      run: dotnet build Documenter/SpriteDocumenter.sln --no-restore -p:PostBuildEvent=
+    - name: Test
+      run: dotnet test Documenter/SpriteDocumenter.sln --no-build --verbosity normal
+    - name: Push changes
+      if: ${{ github.event_name == 'pull_request' }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      continue-on-error: true
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "<>"
+        git add -A
+        if ! git diff-index --quiet HEAD; then
+          git commit -a -m "Documentation Updates"
+          git push
+        fi
+    # - name: Download git tree
+    #   if: ${{ github.event_name != 'pull_request' }}
+    #   shell: pwsh
+    #   run: |
+    #     Invoke-RestMethod -Uri https://api.github.com/repos/MattEqualsCoder/SMZ3CasSprites/git/trees/main?recursive=1 -OutFile Sprites/sprites.json
