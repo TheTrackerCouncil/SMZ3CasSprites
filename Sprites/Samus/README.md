@@ -1,5 +1,11 @@
 # Samus Sprites
 
+### 140 by Kyzentum
+![image](140.png)
+
+### Agender by Abyss
+![image](agender_samus.png)
+
 ### Alcoon by wuffie
 ![image](alcoon.png)
 
@@ -15,14 +21,29 @@
 ### AroAce by mm2nescartridge
 ![image](aroace.png)
 
+### AroAce (alt) by mm2nescartridge
+![image](aroace_alt.png)
+
 ### B.O.B. by SpoonyBard
 ![image](b.o.b..png)
+
+### Bruno by SunWuFarmer
+![image](bruno.png)
+
+### Buffed Eggplant by Fredz00z
+![image](buffed_eggplant.png)
 
 ### Buffed Kirby by Fredz00z
 ![image](buffed-kirby.png)
 
+### Buffed Pug by Fredz00z
+![image](buffed_pug.png)
+
 ### Captain Novolin by PaddyCo
 ![image](captain-novolin.png)
+
+### Ceroba Ketsukane by Dewut610
+![image](ceroba_ketsukane.png)
 
 ### Chair Deep by _aitchFactor
 ![image](chair-deep.png)
@@ -48,8 +69,14 @@
 ### Federation Trooper by Physix
 ![image](federation_trooper.1.sm.png)
 
+### FIGHT by Spoony
+![image](fight.png)
+
 ### Inkling Girl by ouily644
 ![image](inkling-girl.png)
+
+### Junkoid by P. Yoshi
+![image](junkoid.png)
 
 ### Justin Bailey by Auximines
 ![image](justin_bailey1.sm.png)
@@ -80,6 +107,9 @@
 
 ### Luigi by RonnSama
 ![image](luigi.1.sm.png)
+
+### Madelinec by Dawn
+![image](madeline.png)
 
 ### Maria Pollo by Moe Chicken
 ![image](maria-pollo.png)
@@ -162,6 +192,9 @@
 ### Samus (upside down) by TarThoron
 ![image](samus-(upside-down).png)
 
+### Samus Maid by Ouily644
+![image](samus_maid.png)
+
 ### Samus' Left Leg by Kyzentum
 ![image](samus-left-leg.png)
 
@@ -200,6 +233,9 @@
 
 ### Wario by Fredz00z
 ![image](wario.png)
+
+### Win95 Cursor by PlaguedOne
+![image](win95_cursor.png)
 
 ### Wireframe by Fredz00z
 ![image](wireframe.png)
