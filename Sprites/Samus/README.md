@@ -27,6 +27,12 @@
 ### B.O.B. by SpoonyBard
 ![image](b.o.b..png)
 
+### Bearded MMX by HisBeardNis
+![image](bearded-mmx.png)
+
+### Brad Fang by Akai Azul
+![image](brad-fang.png)
+
 ### Bruno by SunWuFarmer
 ![image](bruno.png)
 
@@ -39,6 +45,9 @@
 ### Buffed Pug by Fredz00z
 ![image](buffed_pug.png)
 
+### Cacodemon by WillowPunch
+![image](cacodemon.png)
+
 ### Captain Novolin by PaddyCo
 ![image](captain-novolin.png)
 
@@ -48,8 +57,20 @@
 ### Chair Deep by _aitchFactor
 ![image](chair-deep.png)
 
+### Charizard by Charmander106
+![image](charizard.png)
+
+### Charlotte Aulin by Jonacrab
+![image](charlotte-aulin.png)
+
+### Classic by Plan
+![image](classic.png)
+
 ### Combat Armor by Munchy
 ![image](combat-armor.png)
+
+### Crest by Koala
+![image](crest.png)
 
 ### Crewmate by _aitchFactor
 ![image](crewmate.png)
@@ -60,8 +81,17 @@
 ### Dark Samus by TarThoron
 ![image](dark_samus.2.sm.png)
 
+### Dark Samus by TarThoron
+![image](dark-samus.png)
+
+### Dark Samus (reanim) by Mattroid
+![image](dark-samus-reanim.png)
+
 ### Diddy Kong by Di10
 ![image](diddy-kong.png)
+
+### Dread (alt) by DragonKnight
+![image](dread-alt.png)
 
 ### Earthworm Jim by Fredz00z
 ![image](earthworm-jim.png)
@@ -71,6 +101,15 @@
 
 ### FIGHT by Spoony
 ![image](fight.png)
+
+### Golden Chorizo Code by PapaSchmo
+![image](golden-chorizo-code.png)
+
+### Idol Kiara by ShinobuFujiko
+![image](idol-kiara.png)
+
+### Infee and Nitee by WillowPunch
+![image](infee-and-nitee.png)
 
 ### Inkling Girl by ouily644
 ![image](inkling-girl.png)
@@ -83,6 +122,12 @@
 
 ### Kaizo by Green Samus
 ![image](kaizo.png)
+
+### Katt by Jonacrab
+![image](katt.png)
+
+### Kiara by ShinobuFujiko
+![image](kiara.png)
 
 ### Kid Goku by Fredz00z
 ![image](kid-goku.png)
@@ -141,14 +186,32 @@
 ### Metroid by Fingersmcgee
 ![image](metroid.png)
 
+### Metroid 1 by Mattroid
+![image](metroid-1.png)
+
 ### Mini Samus by Kyzentun
 ![image](mini-samus.png)
 
 ### MissingNo by littleleaderhearts
 ![image](missingno.png)
 
+### Modul by WillowPunch
+![image](modul.png)
+
+### Moonclif by Lougaroc
+![image](moonclif.png)
+
+### NEStroid by Dawn
+![image](nestroid.png)
+
 ### Non-Binary by Glove
 ![image](non-binary.png)
+
+### Officer Donut by Omnomnius
+![image](officer-donut.png)
+
+### PED Suit by Mattroid
+![image](ped-suit.png)
 
 ### Plissken by Akai Azul
 ![image](plissken.png)
@@ -158,6 +221,9 @@
 
 ### Pyronett by Dawilowilowes
 ![image](pyronett.png)
+
+### Rainbow Edge by Kyzentum
+![image](rainbow-edge.png)
 
 ### Rash by Fragger
 ![image](rash.png)
@@ -201,6 +267,9 @@
 ### Sans by Ouily644
 ![image](sans.png)
 
+### Santamus by Mattroid
+![image](santamus.png)
+
 ### Shaktool by Pneumatic
 ![image](shaktool.png)
 
@@ -228,6 +297,9 @@
 ### Tetromino by Kyzentun
 ![image](tetromino.png)
 
+### Thomcrow Corbin by Thomcrow
+![image](thomcrow-corbin.png)
+
 ### Trans by TarThoron
 ![image](trans.png)
 
@@ -245,4 +317,7 @@
 
 ### Zelda 2 Link by littleleaderhearts
 ![image](zelda-2-link.png)
+
+### Zero Suit Samus by Jonacrab
+![image](zero-suit-samus.png)
 
